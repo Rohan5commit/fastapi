@@ -578,3 +578,5 @@ Additional optional FastAPI dependencies:
 ## License { #license }
 
 This project is licensed under the terms of the MIT license.
+
+<!-- minor cleanup -->
